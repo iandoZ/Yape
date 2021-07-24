@@ -2,7 +2,7 @@
 
 Yape is a collection of NFTs born in July 2021: these are unique digital collectibles that live on the Ethereum Blockchain.
 
-32 Yape ideally forges the crown of their only king ...
+32 Yape trace verified collections that ideally forge the crown of their only King ...
 
 Choose your Yape, make an offer and have fun with it in the NFT market.
 
