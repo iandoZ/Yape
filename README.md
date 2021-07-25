@@ -5,7 +5,8 @@ Yape certifies the tracking of the most important collections in the NFT market.
 
 NFT users are routed and guaranteed on the authenticity of a collection.
 
-The Yape are also a collection as they were created manually with love and passion, with unique features and different traits.
+The Yape are also a collection as they were created manually with love and passion, 
+with unique features and different traits.
 
 Mint address: https://opensea.io/0x0d6a2e8f41fbae9472f62feca4708a35305c36ce
 
