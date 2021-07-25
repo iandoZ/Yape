@@ -9,7 +9,7 @@ The Yape are also a collection as they were created manually with love and passi
 
 Mint address: https://opensea.io/Yape 0x0d6a2e8f41fbae9472f62feca4708a35305c36ce
 
-The QR codes were obtained from random combinations with powerful and free QR engine 200 x 2000 px - https: //www.qccode-monkey .com / #
+The QR codes were obtained from random combinations with powerful and free QR engine 200 x 2000 px - https://www.qrcode-monkey.com/
 
 Each yape has been coded and recorded on Ethereum Blockchain.
 
