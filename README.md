@@ -21,6 +21,6 @@ https://github.com/yapeyat/Yape/blob/main/qrtrack.xlsx?raw=true
 
 The Yape is also the first Ethereum-based collection to have used in its NFT emoji based on the y.at service 
 
-https://y.at/⛓️⛓️🦍⛓️⛓️
+https://y.at/⛓⛓🦍⛓⛓
 
 
