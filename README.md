@@ -1,5 +1,5 @@
 
-Yape certifies the most important collections of the NFT market.
+Yape certifies the tracking of the most important collections in the NFT market on the Ethereum Blockchain.
 
 30 Yape QR track verified collections that ideally forge the crown of their only King.
 
