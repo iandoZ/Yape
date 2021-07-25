@@ -13,6 +13,6 @@ The QR codes were obtained from random combinations with powerful and free QR en
 
 Each yape has been coded and recorded on Ethereum Blockchain.
 
-The Yape is also the first Ethereum-based collection to have used in its NFT emoji based on the Y.AT service ⛓⛓🦍⛓⛓.y.at
+The Yape is also the first Ethereum-based collection to have used in its NFT emoji based on the y.at service ⛓⛓🦍⛓⛓.y.at
 
 
