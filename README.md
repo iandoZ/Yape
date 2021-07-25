@@ -15,7 +15,7 @@ Each yape has been coded and recorded on Ethereum Blockchain.
 
 Important: 
 For a correct check, always check the contract address of an NFT with the list below:
-https://github.com/yapeyat/yape/blob/main/30topnft.xlsx
+https://github.com/yapeyat/Yape/blob/main/30TopNFT.xlsx?raw=true
 
 The Yape is also the first Ethereum-based collection to have used in its NFT emoji based on the y.at service 
 
