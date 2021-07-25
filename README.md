@@ -1,20 +1,18 @@
-# Yape
 
-Yape certifies the most important collections through its QR, this helps NFT users to be routed and guaranteed on the authenticity of a collection.
+Yape certifies the most important collections of the NFT market.
 
-30 Yape trace verified collections that ideally forge the crown of their only King ...
+30 Yape QR track verified collections that ideally forge the crown of their only King.
 
-Choose your Yape, make an offer and have fun with it in the NFT market.
+NFT users are routed and guaranteed on the authenticity of a collection.
+
+The Yape are also a collection as they were created manually with love and passion, with unique features and different traits.
 
 Mint address: https://opensea.io/Yape 0x0d6a2e8f41fbae9472f62feca4708a35305c36ce
 
-https://github.com/yapeyat/Yape/blob/main/README.md
+The QR codes were obtained from random combinations with powerful and free QR engine 200 x 2000 px - https: //www.qccode-monkey .com / #
 
-Yape have been created manually with love and passion, with unique features and different traits while QR codes have been obtained random structured and accurate combinations of attributes with powerful Free QR Engine 2000 x 2000 Px image generator -  https://www.qrcode-monkey.com/# 
-each stored on github https://github.com/yapeyat/Yape/
+Each yape has been coded and recorded on Ethereum Blockchain.
 
-Each Yape through its QR has its own rarity and is linked to a special ranking of the best NFTs in history.
+The Yape is also the first Ethereum-based collection to have used in its NFT emoji based on the Y.AT service ⛓⛓🦍⛓⛓.y.at
 
-Yape is the first ethereum collection that has used emoji based on the y.at service for its NFTs.
 
-© 2021 GitHub, Inc.
