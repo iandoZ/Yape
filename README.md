@@ -26,6 +26,8 @@ Each yape has been coded and minted on Ethereum Blockchain.
 
 Mint address: https://opensea.io/0x0d6a2e8f41fbae9472f62feca4708a35305c36ce
 
+Collection link https://opensea.io/collection/yape
+
 ID proof - https://github.com/yapeyat/Yape/blob/main/id%20proof.txt
 
 
