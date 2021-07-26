@@ -1,8 +1,8 @@
 Yape certifies the tracking of the most follow collections in the NFT market.
 
-30 Yape QR track ideally forge the crown of their only King.
+30 Yape QR ideally forge the crown of their only King.
 
-Attraverso il  QR NFT users are routed and guaranteed on the authenticity of a collection.
+Through the QR the NFT users are routed and guaranteed on the authenticity of a collection.
 
 The Yape are also a collection as they were created manually with love and passion, 
 with unique features and different traits.
