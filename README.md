@@ -1,5 +1,5 @@
 
-The safe path to the most followed collections in the NFT market.
+The safe path to the most followed collections in the NFT market - https://github.com/yapeyat/Yape/blob/main/YList.JPG
 
 Contract and URL of the collection have been verified for each Yape - https://github.com/yapeyat/Yape/blob/main/qrtrack.xlsx
 
