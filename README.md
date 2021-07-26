@@ -1,4 +1,4 @@
-Yape certifies the tracking of the most follow collections in the NFT market.
+The safe path of the most followed collections in the NFT market.
 
 30 Yape QR ideally forge the crown of their only King.
 
