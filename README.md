@@ -4,8 +4,8 @@ https://github.com/yapeyat/Yape/blob/main/YList.JPG
 Contract and URL of the collection have been verified for each Yape...
 https://github.com/yapeyat/Yape/blob/main/qrtrack.xlsx
 
-Through the QR  - http://opensea.io/collection/yape - the NFT users 
-are routed and guaranteed on the authenticity of a collection.
+Through the QR  - http://opensea.io/collection/yape - 
+the NFT users are routed and guaranteed on the authenticity of a collection.
 
 Yape is at the same time a collection. 30 Yape QR ideally forge the crown of their only King.
 
