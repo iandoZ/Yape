@@ -5,7 +5,7 @@ Yape Finance Attrib
 Yape Treasure
 Etherscan Address: 0x7fb021abdb1bca7eff24a9c081031eb70fce4e28
 
-Earnings will be sent on the 8th day of each month to the owner of the Yape NFT
+Earnings will be sent on ETH address the 8th day of each month to the owner of the Yape NFT
 https://github.com/yapeyat/Yape/blob/main/Yape%20NFT%20Earning.JPG
 
 
