@@ -1,5 +1,7 @@
 Enjoy your YAPE Treasure slice🍉🌴🍌
 
+https://github.com/yapeyat/Yape/blob/main/Yape%20NFT%20Earning.JPG
+
 The safe path to the most followed collections in the NFT market.
 https://github.com/yapeyat/Yape/blob/main/YList.JPG
 
