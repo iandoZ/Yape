@@ -1,6 +1,20 @@
 Enjoy your YAPE Treasure slice🍉🌴🍌
 
+Yape Finance Attrib
+-------------------
+Yape Treasure
+Etherscan Address: 0x7fb021abdb1bca7eff24a9c081031eb70fce4e28
+
+Earnings will be sent on the 8th day of each month to the owner of the Yape NFT
 https://github.com/yapeyat/Yape/blob/main/Yape%20NFT%20Earning.JPG
+
+
+https://y.at/⛓️⛓️🦍⛓️⛓️
+
+
+Yape NFT Attrib
+---------------
+30 Yape QR ideally forge the crown of their only King.
 
 The safe path to the most followed collections in the NFT market.
 https://github.com/yapeyat/Yape/blob/main/YList.JPG
@@ -10,8 +24,6 @@ https://github.com/yapeyat/Yape/blob/main/qrtrack.xlsx
 
 Through the QR  - http://opensea.io/collection/yape - 
 the NFT users are routed and guaranteed on the authenticity of a collection.
-
-Yape is at the same time a collection. 30 Yape QR ideally forge the crown of their only King.
 
 More info: https://github.com/yapeyat/Yape/blob/main/README.md
 
