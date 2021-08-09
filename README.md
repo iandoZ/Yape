@@ -1,4 +1,4 @@
-YAPE - NFT Earning
+YAPE - NFT Tresaure Shards
 
 Yape Finance Attrib
 -------------------
