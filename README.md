@@ -2,12 +2,15 @@ YAPE - NFT Tresaure Shards
 
 Yape Finance Attrib
 -------------------
-Yape Treasure
-Etherscan Address: 0x7fb021abdb1bca7eff24a9c081031eb70fce4e28
+💰 Yape Treasure 💰 
+Etherscan Address:
+0x7fb021abdb1bca7eff24a9c081031eb70fce4e28
 
-Earnings will be sent on ETH address the 8th day of each month to the owner of the Yape NFT
-https://github.com/yapeyat/Yape/blob/main/Yape%20NFT%20Earning.JPG
+Yape NFT Earning:
+https://github.com/yapeyat/Yape/blob/main/Earning.JPG
 
+Note: Earnings will be sent on ETH address the 8th 
+      day of each month to the owner of the Yape NFT
 
 https://y.at/⛓️⛓️🦍⛓️⛓️
 
