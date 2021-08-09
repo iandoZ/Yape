@@ -1,4 +1,4 @@
-Enjoy your YAPE Treasure slice🍉🌴🍌
+YAPE - NFT Earning
 
 Yape Finance Attrib
 -------------------
